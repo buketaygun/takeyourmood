@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "439325499276",
+    "firebase_url": "https://takeurmood-e6e1d-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "takeurmood-e6e1d",
+    "storage_bucket": "takeurmood-e6e1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439325499276:android:e998461c07d2fd43b800a9",
+        "android_client_info": {
+          "package_name": "com.example.flutter_ornek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439325499276-0o0n95udiev554f9vf96pt53ork2somb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAC_rG9lIvACyhfFS8kBY2D_lHIxa3R5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439325499276-0o0n95udiev554f9vf96pt53ork2somb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "439325499276-a97au77mck4uvq24jh5jui9e5jvn2m91.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.takeyourmood"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439325499276:android:d20686129806ed89b800a9",
+        "android_client_info": {
+          "package_name": "com.example.takeyourmood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439325499276-0o0n95udiev554f9vf96pt53ork2somb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAC_rG9lIvACyhfFS8kBY2D_lHIxa3R5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439325499276-0o0n95udiev554f9vf96pt53ork2somb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "439325499276-a97au77mck4uvq24jh5jui9e5jvn2m91.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.takeyourmood"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
